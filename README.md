@@ -4,14 +4,10 @@ GreenNest is a modern, elegant single-page web application designed for plant lo
 
 🔗 **Live Website:** https://greennestshop.netlify.app/
 
+## Description
+GreenNest is a single-page web application built for indoor plant lovers who want to explore, care for, and purchase healthy indoor plants. The platform provides detailed plant information, plant care tips, and expert consultation booking in a clean, calming, and nature-inspired interface.
+The application uses Firebase authentication to ensure secure user access and includes protected routes for plant details and user profile management. Plant data is dynamically loaded from a JSON file, maintaining smooth SPA navigation without page reloads. GreenNest focuses on responsive design, user-friendly interaction, and modern frontend best practices to create a pleasant digital experience for plant enthusiasts.
 
----
-
-## 🎯 Project Purpose
-
-The main goal of GreenNest is to build a responsive and visually pleasing plant care and e-commerce platform using modern frontend technologies. The application ensures smooth navigation, secure authentication, and protected content while maintaining SPA behavior.
-
----
 
 ## ✨ Key Features
 
@@ -34,14 +30,6 @@ The main goal of GreenNest is to build a responsive and visually pleasing plant 
 
 ---
 
-### 🏠 Home Page Sections
-- **Hero Section:** Animated slider using Swiper / Framer Motion
-- **Top Rated Indoor Plants:** Data fetched from JSON
-- **Plant Care Tips:** Watering, sunlight, and fertilizing tips
-- **Meet Our Green Experts:** Expert profiles with specialization
-- **Extra Section:** Eco Decor Ideas / Plant of the Week
-
----
 
 ### 🌿 Plant Features
 - Plant data loaded from `plants.json`
@@ -77,18 +65,6 @@ The main goal of GreenNest is to build a responsive and visually pleasing plant 
   - Update photo URL
 - Uses Firebase `updateProfile()` for real-time updates
 
----
-
-## 🧪 Extra Functionalities
-- Show/Hide password toggle
-- Real-time error handling with toast messages
-- Password validation:
-  - Minimum 6 characters
-  - At least one uppercase letter
-  - At least one lowercase letter
-- No email verification (as per assignment instruction)
-
----
 
 ## 🧰 Technologies Used
 
@@ -104,14 +80,17 @@ The main goal of GreenNest is to build a responsive and visually pleasing plant 
 - Firebase Hosting
 
 ### 📦 Packages & Libraries
-- react-router-dom
+- react-router
 - firebase
 - react-icons
 - react-toastify
 - swiper
 - framer-motion
+- tailwind
+- daisy ui
+- swiper js
 
 ---
 
-## 📁 Project Structure
+
 
