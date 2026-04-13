@@ -21,8 +21,6 @@ GreenNest implements a **secure and user-friendly authentication system** using 
 
 From a technical standpoint, the project showcases modern frontend development practices using **React and React Router**, enabling dynamic routing and component-based design. The UI is crafted using **Tailwind CSS and DaisyUI**, ensuring consistency, responsiveness, and a visually appealing layout across all devices. Animations and interactive elements powered by **Framer Motion and Swiper.js** further enhance the overall user experience.  
 
-The platform dynamically loads plant data from structured JSON sources, demonstrating efficient data handling and smooth rendering without unnecessary reloads. Additional features like real-time toast notifications, protected routes, profile management, and form handling contribute to a complete and production-ready application.  
-
 Overall, GreenNest represents a well-structured **frontend-focused SPA project** that highlights expertise in responsive design, authentication, stateful UI interactions, and user-centric application development—making it a strong example of modern web development aligned with industry best practices.
 
 ---
