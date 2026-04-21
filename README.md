@@ -43,15 +43,15 @@ Overall, GreenNest represents a well-structured **frontend-focused SPA project**
 
 ## ✨ Key Features  
 
-- 🌱 Modern, nature-inspired responsive UI  
-- 🔐 Firebase Authentication (Email/Password + Google Login)  
-- 🔒 Protected routes for plant details & profile  
-- 🌿 Dynamic plant data rendering from JSON  
-- 📖 Detailed plant care information & ratings  
-- 📅 Consultation booking system with form handling  
-- 🔔 Toast notifications for user feedback  
-- 👤 User profile management with real-time updates  
-- 🎬 Smooth animations (Framer Motion / Swiper)  
+- 🌱 Modern, nature-inspired responsive UI.  
+- 🔐 Firebase Authentication (Email/Password + Google Login) . 
+- 🔒 Protected routes for plant details & profile . 
+- 🌿 Dynamic plant data rendering from JSON . 
+- 📖 Detailed plant care information & ratings . 
+- 📅 Consultation booking system with form handling . 
+- 🔔 Toast notifications for user feedback  .
+- 👤 User profile management with real-time updates . 
+- 🎬 Smooth animations (Framer Motion / Swiper) . 
 
 ---
 
