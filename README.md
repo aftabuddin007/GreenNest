@@ -132,21 +132,4 @@ Overall, GreenNest represents a well-structured **frontend-focused SPA project**
 
 ### 1️⃣ Clone Repository  
 ```bash
-git clone https://github.com/aftabuddin007/greennest-client
-
-
----
-
-## 🔥 This version is:
-- **Senior-level polished**
-- Strong **product + technical explanation**
-- Perfect for **portfolio + recruiters**
-- Fully **copy-paste ready**
-
----
-
-If you want next upgrade (HIGHLY recommended 🔥):
-- I can make a **short 2–3 line resume version (ATS optimized)**
-- Or **compare your 3 projects and tell which one is strongest for job**
-
-Just tell me 👍
+git clone https://github.com/aftabuddin007/greennest-cl
